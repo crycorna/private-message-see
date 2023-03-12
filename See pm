@@ -1,4 +1,3 @@
-This script reveals ALL hidden messages in the default chat
 --chat "/spy" to toggle!
 enabled = true
 --if true will check your messages too
